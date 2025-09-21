@@ -1,2 +1,4 @@
 # hello-world
-hello  git/github
+a bit myself
+about me 
+my name is khoenv imfine
